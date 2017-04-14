@@ -1,6 +1,6 @@
 {
   "name": "preact-walk",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Walk Preact components",
   "main": "index.js",
   "files": []
